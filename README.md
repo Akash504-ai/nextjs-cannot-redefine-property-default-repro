@@ -1,0 +1,1 @@
+# nextjs-cannot-redefine-property-default-repro
